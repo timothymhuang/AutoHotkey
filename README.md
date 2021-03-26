@@ -4,7 +4,7 @@ This is a collection of all of Timothy's AutoHotkey scripts that he wants to sha
 
 ## License
 
-Unless otherwise noted, all scrips are released to the public under the [MIT License](https://github.com/timothymhuang/AutoHotkey/blob/main/LICENSE).
+Unless otherwise noted, all scrips are released to the public under the [GNU General Public License](https://github.com/timothymhuang/AutoHotkey/blob/main/LICENSE). Most of my scripts are designed to run by themselves. However some scripts are designed to be used inside of other scripts and will include an MIT license instead.
 
 ## List of Scripts
 
